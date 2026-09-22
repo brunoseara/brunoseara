@@ -23,6 +23,6 @@ Olá! 🚀 Eu sou o <b>Bruno</b> e sou desenvolvedor AdvPL (TOTVS Protheus) 🎯
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunoseara&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)
   
   
-(![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=brunoseara)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=brunoseara)
 
   </div>
