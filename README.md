@@ -1,130 +1,183 @@
 # Bruno Seára
 
-### Software Engineer · Enterprise Systems · Integrations · Automation
-
-> Building reliable software for complex business processes.
+### Software Engineer · Protheus · Integrações · Automação · Aplicações
 
 <p align="left">
   <a href="https://brunoseara.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
   </a>
   <a href="https://www.linkedin.com/in/brunoseara">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/brunoseara">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-## About
+## Sobre mim
 
-Software Engineer with **20+ years in IT**, specializing in enterprise software, ERP systems, integrations and automation.
+Desenvolvedor especializado em **TOTVS Protheus**, com atuação em desenvolvimento de sistemas corporativos, integrações, automação de processos e aplicações multiplataforma.
 
-My main expertise is the **TOTVS Protheus** ecosystem, with hands-on experience in **ADVPL, TLPP, MVC, REST APIs, SQL Server and Oracle**.
+Minha base técnica combina **ADVPL/TLPP, MVC, APIs REST, SQL Server, Oracle e arquitetura de integrações** com projetos mais recentes utilizando **Flutter, Dart, Supabase, TypeScript e aplicações web**.
 
-I also develop modern applications and experiments with **Flutter, Dart and Supabase**, combining enterprise experience with current application and cloud technologies.
-
----
-
-## Core Expertise
-
-| Area | Technologies |
-|---|---|
-| ERP | TOTVS Protheus |
-| Development | ADVPL · TLPP · MVC |
-| APIs & Integrations | REST · JSON · API integrations |
-| Databases | SQL Server · Oracle |
-| Applications | Flutter · Dart |
-| Backend & Cloud | Supabase · REST APIs |
-| Infrastructure | Linux · Windows Server |
-| Tools | Git · GitHub · Postman |
-| Automation | AppServer · Schedulers · Enterprise workflows |
+Gosto de transformar processos complexos em software mais simples, rastreável e automatizado — especialmente quando existe um ERP, uma operação logística e vários sistemas precisando conversar entre si.
 
 ---
 
-## Technology Stack
+## Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ADVPL-333333?style=flat-square" alt="ADVPL">
-  <img src="https://img.shields.io/badge/TLPP-333333?style=flat-square" alt="TLPP">
-  <img src="https://img.shields.io/badge/Protheus-008FD5?style=flat-square" alt="Protheus">
-  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square" alt="REST">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+### Enterprise / ERP
+
+<p>
+  <img src="https://img.shields.io/badge/ADVPL-202020?style=for-the-badge" alt="ADVPL">
+  <img src="https://img.shields.io/badge/TLPP-202020?style=for-the-badge" alt="TLPP">
+  <img src="https://img.shields.io/badge/TOTVS%20PROTHEUS-008FD5?style=for-the-badge" alt="TOTVS Protheus">
+  <img src="https://img.shields.io/badge/MVC-374151?style=for-the-badge" alt="MVC">
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge" alt="REST">
+</p>
+
+### Dados & Integrações
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge" alt="APIs">
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+### Aplicações & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+### Engenharia
+
+<p>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux">
+  <img src="https://img.shields.io/badge/WINDOWS%20SERVER-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
 </p>
 
 ---
 
-## Selected Projects
+## O que existe no meu GitHub
 
-### Enterprise & ERP
+<table>
+<tr>
+<td align="center"><strong>8</strong><br><sub>repositórios</sub></td>
+<td align="center"><strong>5</strong><br><sub>públicos</sub></td>
+<td align="center"><strong>3</strong><br><sub>privados</sub></td>
+<td align="center"><strong>3</strong><br><sub>projetos Flutter identificados</sub></td>
+</tr>
+</table>
 
-**TOTVS Protheus Solutions**
+### Projetos que mais representam meu trabalho
 
-Custom routines, MVC applications, integrations, reports, automations and business processes using ADVPL and TLPP.
+| Projeto | Foco |
+|---|---|
+| **LogServices** | Gestão de serviços logísticos · Web + Mobile · Supabase |
+| **Integração TECADI** | Protheus · OMS/WMS · APIs REST · Schedulers · rastreabilidade |
+| **CheckList App** | Flutter · Supabase · autenticação · mídia · operação offline |
+| **Tecadi Messenger** | Aplicação multiplataforma em Flutter |
+| **Portfolio** | Portfólio pessoal e apresentação profissional |
 
-### Integrations & Automation
-
-Solutions connecting ERP environments with external systems through REST APIs, scheduled processes and automated workflows.
-
-### Modern Applications
-
-Applications and experiments using Flutter, Dart, Supabase and cloud services.
+> Os números acima refletem os repositórios atualmente acessíveis pela minha conta. Projetos privados não têm seus detalhes expostos nesta página.
 
 ---
 
-## GitHub Statistics
-
-> Public GitHub activity only. Private repository activity is intentionally not represented by these cards.
+## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunoseara&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&locale=en" alt="Bruno Seára GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoseara&layout=compact&langs_count=8&hide_border=true&locale=en" alt="Bruno Seára most used languages">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=brunoseara&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub de Bruno Seára">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoseara&layout=compact&langs_count=8&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Bruno Seára">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoseara&theme=github_dark" alt="Resumo da atividade no GitHub">
 </p>
 
 ---
 
-## Contribution Activity
+## Projetos em destaque
+
+### LogServices
+
+Plataforma de gestão de serviços logísticos com **portal web + aplicativo mobile**, construída com **Flutter, TypeScript e Supabase**.
+
+O projeto reúne operação, escalas, equipamentos, ordens de serviço, aprovações, auditoria, notificações, financeiro, relatórios, integrações e automações em uma única arquitetura.
+
+### Integração OMS / TECADI
+
+Integrações entre **TOTVS Protheus** e plataformas de logística/OMS/WMS.
+
+O projeto trabalha com:
+
+- produtos, pedidos, faturamento e notas fiscais;
+- APIs REST e autenticação;
+- payloads e tratamento de retornos;
+- schedulers e processos em background;
+- controle por filial;
+- logs e rastreabilidade;
+- rotinas ADVPL/TLPP.
+
+### CheckList App
+
+Aplicação multiplataforma construída com **Flutter + Supabase**, com autenticação, checklists dinâmicos, templates, histórico, mídia, gravação de áudio e funcionamento com rascunhos offline.
+
+---
+
+## Atividade de contribuição
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunoseara/brunoseara/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunoseara/brunoseara/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/brunoseara/brunoseara/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/brunoseara/brunoseara/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-## Engineering Principles
+## Spotify
 
-```text
-Simplicity      → Prefer solutions that are easy to understand and maintain.
-Automation      → Eliminate repetitive work whenever software can do it better.
-Integration     → Systems should communicate reliably.
-Performance     → Efficient software is part of good architecture.
-Maintainability → Code is written for the next developer too.
-Business Value  → Technology must solve a real problem.
-```
+<p align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=brunoseara" alt="Spotify recentemente reproduzido">
+</p>
 
 ---
 
-## Currently Exploring
+## Como eu penso software
 
-- Modern enterprise application architecture
-- REST-first integrations
-- Flutter & cross-platform applications
-- Supabase & cloud backends
-- Observability and monitoring
-- ERP workflow automation
-- Software architecture and performance
-- AI-assisted software development
+```text
+ERP + Integração + Automação
+          ↓
+      Processo
+          ↓
+   Regra de negócio
+          ↓
+      Tecnologia
+          ↓
+  Operação mais simples
+```
+
+**Princípios que guiam meus projetos:**
+
+- **Automatizar antes de repetir**
+- **Integrar antes de duplicar**
+- **Rastrear antes de assumir**
+- **Simplificar antes de sofisticar**
+- **Resolver o problema do negócio antes de escolher a tecnologia**
 
 ---
 
 <p align="center">
-  <sub>Software Engineer · Enterprise Systems · Integrations · Automation</sub>
+  <sub>Software Engineer · TOTVS Protheus · Integrações · Automação · Aplicações</sub>
 </p>
